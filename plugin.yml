@@ -1,0 +1,5 @@
+name: BlackCraft
+api: [3.2.0]
+main: BlackTeam\BlackCraft\Main
+version: 1.0.0
+author: BlackTeam
